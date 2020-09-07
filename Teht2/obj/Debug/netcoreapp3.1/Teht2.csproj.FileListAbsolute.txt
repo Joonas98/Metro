@@ -1,0 +1,13 @@
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\obj\Debug\netcoreapp3.1\Teht2.csprojAssemblyReference.cache
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\obj\Debug\netcoreapp3.1\Teht2.AssemblyInfoInputs.cache
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\obj\Debug\netcoreapp3.1\Teht2.AssemblyInfo.cs
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\obj\Debug\netcoreapp3.1\Teht2.csproj.CoreCompileInputs.cache
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\bin\Debug\netcoreapp3.1\Teht2.exe
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\bin\Debug\netcoreapp3.1\Teht2.deps.json
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\bin\Debug\netcoreapp3.1\Teht2.runtimeconfig.json
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\bin\Debug\netcoreapp3.1\Teht2.runtimeconfig.dev.json
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\bin\Debug\netcoreapp3.1\Teht2.dll
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\bin\Debug\netcoreapp3.1\Teht2.pdb
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\obj\Debug\netcoreapp3.1\Teht2.dll
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\obj\Debug\netcoreapp3.1\Teht2.pdb
+C:\Users\jsuur\OneDrive\Työpöytä\Taustajärjs\Teht2\obj\Debug\netcoreapp3.1\Teht2.genruntimeconfig.cache
